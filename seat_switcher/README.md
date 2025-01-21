@@ -1,7 +1,7 @@
 # Scripts-FiveM-QB
 Scripts Sencillos para FiveM con el Framework de QB
 
-- Video Muestra
+# Video de Muestra (click en la imagen)
 
 [![IMAGE ALT TEXT HERE](https://i.gyazo.com/29332ac4c1848012115ae31eddb30c03.jpg)](https://youtu.be/Mef7oBEFjAI)
 
