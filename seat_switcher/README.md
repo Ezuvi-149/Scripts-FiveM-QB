@@ -1,10 +1,10 @@
 # Scripts-FiveM-QB
 Scripts Sencillos para FiveM con el Framework de QB
 
-![image](https://i.gyazo.com/e6365943f6f2a61797d915b3e406c90e.jpg)
+![image](https://i.gyazo.com/29332ac4c1848012115ae31eddb30c03.jpg)
 
 - Video Muestra
-https://youtu.be/Mef7oBEFjAI
+![video](https://youtu.be/Mef7oBEFjAI)
 
 
 - https://github.com/Ezuvi-149/Scripts-FiveM-QB/tree/main
