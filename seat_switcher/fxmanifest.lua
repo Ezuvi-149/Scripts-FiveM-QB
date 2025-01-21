@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Tu Nombre'
+author 'Ezuvi'
 description 'Script para cambiar de asiento en vehículos para QB Core'
 version '1.0.0'
 
